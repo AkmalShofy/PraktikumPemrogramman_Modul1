@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 int main () {
-int a=12, c=5, b, k, l;
+int a=12, c=5, b;
 printf ("Diketahui : \n");
 printf ("Alas = %d cm\n", c);
 printf ("Tinggi = %d cm\n", a);

@@ -1,7 +1,7 @@
 a,b,c=4,8,3
-print ("Variabel a bernilai 4")
-print ("Variabel b bernilai 8")
-print ("Variabel c bernilai 3")
+print ("Variabel a bernilai ",a)
+print ("Variabel b bernilai ",b)
+print ("Variabel c bernilai ",c)
 if (a!=b) :
      print ("Apakah a sama dengan b ? jawabannya adalah 0")
 if (b>c) :
